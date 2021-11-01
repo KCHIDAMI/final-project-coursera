@@ -1,3 +1,3 @@
 # final-project-coursera
 how to win a data science competition final project from coursera
-predicting sales using XGBoost model
+time series prediction: predicting sales for different stores, different categories and items using XGBoost model
